@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.test {
+    border: 2px solid red;
+}
+
+.icon-image {
+    width: auto;
+    height: 20px;
+}
+
+.background-image {
+    width: 100%;
+}
+
+.container-flex {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.container-grid {
+    display: grid;
+}
+
+.container-footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
